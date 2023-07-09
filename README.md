@@ -1,6 +1,6 @@
 # ConsistentLLM
 
-Give typescript support to LLMs
+Typescript for LLM
 
 Roadmap:
 
